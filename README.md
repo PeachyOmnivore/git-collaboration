@@ -110,7 +110,7 @@ Using git involves learning a lot of strange commands with weird names.
 
 How can we learn about commands like this? List some techniques:
 
-* Refer to other developers and learn my practising different methods of exploring gitbash
+* Refer to other developers/web browsing and learn by practising different methods of exploring gitbash.
 * Use resources on the internet like MDN and websites that have commands like: https://git-scm.com/docs
 
 Getting good at finding out information like this will help you become a better software engineer. Each additional technique you learn might save you days or weeks of time in the long run.
